@@ -2,7 +2,7 @@
 
     Operadores aritmeticos:
 
-+ = soma ou concatena
++ = soma ou concatena (Pode ser chamado de poliformismo por ter uma mesma ação utilizando o mesmo operador)
 - = subtração
 * = multilplicação
 / = divisão
@@ -21,8 +21,8 @@ print('Divisão:','10 / 10 = ',10 / 10)
 print('Divisão inteira:','10 // 10 = ',10 // 10)
 print('Exponenciação:','10 ** 10 = ',10 ** 10)
 print('Resto da Divisão:','10 % 10 = ', 10 % 10)
-print('Alterando Ordem de prescedencia:','(10/2)+20-(10*10) = ',10/2+20-10*10)
-print('Alterando Ordem de prescedencia:','(10/2)+20-(10*10) = ',(10/2+20)-10*10)
+print('Alterando Ordem de prescedencia:','(5+2*10) = ',(5+2*10))
+print('Alterando Ordem de prescedencia:','(5+2)*10 = ',(5+2)*10)
 
 print('\n','$'*80,sep='')
 
