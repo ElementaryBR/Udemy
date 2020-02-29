@@ -16,6 +16,7 @@ altura = 1.69
 peso = 70
 maior_de_idade = idade >= 18
 imc = peso / (altura*altura)
+# ou imc = peso/ altura ** 2
 
 print(f'nome: {nome}, idade: {idade} anos, altura: {altura}, é maior de idade:? {maior_de_idade}')
 
