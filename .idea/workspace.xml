@@ -9,6 +9,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -25,10 +39,11 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -39,9 +54,14 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Python.While_Else">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Alisson\Desktop\Python\Udemy\Django\Aula1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Exercicio">
     <configuration name="Exercicio" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
       <module name="Udemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -50,100 +70,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula31-Exercicio" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula15/Exercicio.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Exercicios" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
-      <module name="Udemy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula12/Exercicios.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Indices_Fatiamentos" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
-      <module name="Udemy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula14" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula14/Indices_Fatiamentos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="While" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
-      <module name="Udemy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula15" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula15/While.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="While_Else" type="PythonConfigurationType" factoryName="Python" singleton="false" temporary="true" nameIsGenerated="true">
-      <module name="Udemy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Aula15" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula15/While_Else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Aula31-Exercicio/Exercicio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,20 +106,73 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.Exercicios" />
-      <item itemvalue="Python.Indices_Fatiamentos" />
-      <item itemvalue="Python.While" />
-      <item itemvalue="Python.Exercicio" />
-      <item itemvalue="Python.While_Else" />
-    </list>
+    <configuration name="Unittests for test_baconcomovos.TestBaconComOvos.test_bacon_com_ovos_deve_retornar_bacon_se_for_multiplo_de_3" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_baconcomovos.TestBaconComOvos.test_bacon_com_ovos_deve_retornar_bacon_se_for_multiplo_de_3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_baconcomovos.TestBaconComOvos.test_bacon_com_ovos_deve_retornar_bacon_se_for_multiplo_de_5" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_baconcomovos.TestBaconComOvos.test_bacon_com_ovos_deve_retornar_bacon_se_for_multiplo_de_5&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_baconcomovos.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Testes/test_baconcomovos.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_calculadora.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Testes/test_calculadora.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.While_Else" />
         <item itemvalue="Python.Exercicio" />
-        <item itemvalue="Python.While" />
-        <item itemvalue="Python.Indices_Fatiamentos" />
-        <item itemvalue="Python.Exercicios" />
+        <item itemvalue="Python tests.Unittests in test_calculadora.py" />
+        <item itemvalue="Python tests.Unittests in test_baconcomovos.py" />
+        <item itemvalue="Python tests.Unittests for test_baconcomovos.TestBaconComOvos.test_bacon_com_ovos_deve_retornar_bacon_se_for_multiplo_de_3" />
+        <item itemvalue="Python tests.Unittests for test_baconcomovos.TestBaconComOvos.test_bacon_com_ovos_deve_retornar_bacon_se_for_multiplo_de_5" />
       </list>
     </recent_temporary>
   </component>
@@ -206,89 +191,202 @@
       <workItem from="1582980069493" duration="22330000" />
       <workItem from="1583025880637" duration="129000" />
       <workItem from="1583070598641" duration="5583000" />
+      <workItem from="1583112916683" duration="119000" />
+      <workItem from="1583113912781" duration="2287000" />
+      <workItem from="1583165832769" duration="35000" />
+      <workItem from="1583352985391" duration="6850000" />
+      <workItem from="1583425153821" duration="10000" />
+      <workItem from="1583536215592" duration="684000" />
+      <workItem from="1583767602964" duration="2410000" />
+      <workItem from="1583884159897" duration="4950000" />
+      <workItem from="1583969419932" duration="6744000" />
+      <workItem from="1583976356226" duration="901000" />
+      <workItem from="1584031091916" duration="52000" />
+      <workItem from="1584031427675" duration="5000" />
+      <workItem from="1584369821661" duration="11000" />
+      <workItem from="1584528788654" duration="1245000" />
+      <workItem from="1584641272593" duration="44000" />
+      <workItem from="1584970478249" duration="3481000" />
+      <workItem from="1585020650115" duration="1097000" />
+      <workItem from="1585049484910" duration="1363000" />
+      <workItem from="1585164193899" duration="5301000" />
+      <workItem from="1585178401051" duration="6901000" />
+      <workItem from="1585238942788" duration="172000" />
+      <workItem from="1585239650127" duration="631000" />
+      <workItem from="1585408816819" duration="12141000" />
+      <workItem from="1585433128161" duration="6310000" />
+      <workItem from="1585491312924" duration="5783000" />
+      <workItem from="1585500478344" duration="2651000" />
+      <workItem from="1585510045336" duration="277000" />
+      <workItem from="1585510333147" duration="1012000" />
+      <workItem from="1585519613194" duration="6340000" />
+      <workItem from="1585568363494" duration="621000" />
+      <workItem from="1585836919559" duration="175000" />
+      <workItem from="1586220728688" duration="2773000" />
+      <workItem from="1586264524029" duration="887000" />
+      <workItem from="1586266468566" duration="595000" />
+      <workItem from="1586885585368" duration="12215000" />
+      <workItem from="1586951303719" duration="1786000" />
+      <workItem from="1586956922535" duration="616000" />
+      <workItem from="1586971818112" duration="123000" />
+      <workItem from="1586999925397" duration="33000" />
+      <workItem from="1587040470017" duration="93000" />
+      <workItem from="1587043278326" duration="155000" />
+      <workItem from="1587259402208" duration="98000" />
+      <workItem from="1587442147935" duration="61000" />
+      <workItem from="1587442470374" duration="101000" />
+      <workItem from="1590068851494" duration="61000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="175" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582825810046">
+    <state x="588" y="187" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586223274932">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582825810046" />
-    <state x="740" y="283" key="FileChooserDialogImpl" timestamp="1582836420173">
+    <state x="588" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586223274932" />
+    <state x="1155" y="314" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587259436597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="283" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582836420173" />
-    <state width="1867" height="207" key="GridCell.Tab.0.bottom" timestamp="1583084570552">
+    <state x="1155" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587259436597" />
+    <state x="1155" y="314" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586220821304" />
+    <state x="1120" y="251" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586266171959">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583084570552" />
-    <state width="1867" height="207" key="GridCell.Tab.0.center" timestamp="1583084570552">
+    <state x="1120" y="251" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586266171959" />
+    <state x="559" y="105" key="CommitChangelistDialog2" timestamp="1583354762510">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="207" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583084570552" />
-    <state width="1867" height="207" key="GridCell.Tab.0.left" timestamp="1583084570552">
+    <state x="559" y="105" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583354762510" />
+    <state x="740" y="283" key="FileChooserDialogImpl" timestamp="1587259498867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="207" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583084570552" />
-    <state width="1867" height="207" key="GridCell.Tab.0.right" timestamp="1583084570552">
+    <state x="-1180" y="283" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1585239661680" />
+    <state x="740" y="283" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1587259498867" />
+    <state x="740" y="283" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587043432103" />
+    <state width="900" height="498" key="GridCell.Tab.0.bottom" timestamp="1586971940960">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="207" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583084570552" />
-    <state width="1867" height="342" key="GridCell.Tab.1.bottom" timestamp="1583084570365">
+    <state width="1867" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584978931015" />
+    <state width="900" height="498" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586971940960" />
+    <state width="900" height="498" key="GridCell.Tab.0.center" timestamp="1586971940960">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583084570365" />
-    <state width="1867" height="342" key="GridCell.Tab.1.center" timestamp="1583084570365">
+    <state width="1867" height="207" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584978931015" />
+    <state width="900" height="498" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586971940960" />
+    <state width="900" height="498" key="GridCell.Tab.0.left" timestamp="1586971940960">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="342" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583084570365" />
-    <state width="1867" height="342" key="GridCell.Tab.1.left" timestamp="1583084570365">
+    <state width="1867" height="207" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584978931015" />
+    <state width="900" height="498" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586971940960" />
+    <state width="900" height="498" key="GridCell.Tab.0.right" timestamp="1586971940960">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="342" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583084570365" />
-    <state width="1867" height="342" key="GridCell.Tab.1.right" timestamp="1583084570365">
+    <state width="1867" height="207" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584978931015" />
+    <state width="900" height="498" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586971940960" />
+    <state width="904" height="336" key="GridCell.Tab.1.bottom" timestamp="1585522422560">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1867" height="342" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583084570365" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1582825000008">
+    <state width="1850" height="338" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583976170761" />
+    <state width="904" height="336" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585522422560" />
+    <state width="904" height="336" key="GridCell.Tab.1.center" timestamp="1585522422560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1850" height="338" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583976170761" />
+    <state width="904" height="336" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585522422560" />
+    <state width="904" height="336" key="GridCell.Tab.1.left" timestamp="1585522422560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1850" height="338" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583976170761" />
+    <state width="904" height="336" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585522422560" />
+    <state width="904" height="336" key="GridCell.Tab.1.right" timestamp="1585522422560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1850" height="338" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583976170761" />
+    <state width="904" height="336" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585522422560" />
+    <state x="406" y="119" key="SettingsEditor" timestamp="1585510376175">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582825000008" />
-    <state x="629" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1583070598641">
+    <state x="406" y="119" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585510376175" />
+    <state x="629" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1586266481854">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="629" y="341" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583070598641" />
+    <state x="-1291" y="341" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1585239649751" />
+    <state x="629" y="341" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585500478797" />
+    <state x="629" y="341" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1584031091729" />
+    <state x="629" y="341" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586266481854" />
     <state x="505" y="254" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583073441745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="505" y="254" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583073441745" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Udemy$OperadoresRelacionais.coverage" NAME="OperadoresRelacionais Coverage Results" MODIFIED="1582997602603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula9" />
-    <SUITE FILE_PATH="coverage/Udemy$OperadoresLogicos.coverage" NAME="OperadoresLogicos Coverage Results" MODIFIED="1583001254289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula9" />
+    <SUITE FILE_PATH="coverage/Udemy$Condicoes.coverage" NAME="Condicoes Coverage Results" MODIFIED="1582995250527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula9" />
+    <SUITE FILE_PATH="coverage/Udemy$For_in.coverage" NAME="For_in Coverage Results" MODIFIED="1583356038484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula17" />
+    <SUITE FILE_PATH="coverage/Udemy$FormatandoValores.coverage" NAME="FormatandoValores Coverage Results" MODIFIED="1583014934350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula13" />
+    <SUITE FILE_PATH="coverage/Udemy$Dicionario2.coverage" NAME="Dicionario2 Coverage Results" MODIFIED="1585186193684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula28" />
     <SUITE FILE_PATH="coverage/Udemy$Input.coverage" NAME="Input Coverage Results" MODIFIED="1582995164535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula8" />
-    <SUITE FILE_PATH="coverage/Udemy$Len.coverage" NAME="Len Coverage Results" MODIFIED="1583006371272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula10" />
-    <SUITE FILE_PATH="coverage/Udemy$Exercicio.coverage" NAME="Exercicio Coverage Results" MODIFIED="1583074986794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula15" />
-    <SUITE FILE_PATH="coverage/Udemy$Variaveis.coverage" NAME="Variaveis Coverage Results" MODIFIED="1582984948521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula6" />
-    <SUITE FILE_PATH="coverage/Udemy$Indices_Fatiamentos.coverage" NAME="Indices_Fatiamentos Coverage Results" MODIFIED="1583072317159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula14" />
-    <SUITE FILE_PATH="coverage/Udemy$Exercicios.coverage" NAME="Exercicios Coverage Results" MODIFIED="1583025924592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula12" />
+    <SUITE FILE_PATH="coverage/Udemy$ExpressaõOR.coverage" NAME="ExpressaõOR Coverage Results" MODIFIED="1583887737808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula23" />
+    <SUITE FILE_PATH="coverage/Udemy$Aula1.coverage" NAME="Aula1 Coverage Results" MODIFIED="1586886710738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testes" />
+    <SUITE FILE_PATH="coverage/Udemy$Def_Escopo.coverage" NAME="Def_Escopo Coverage Results" MODIFIED="1585167080333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula25" />
+    <SUITE FILE_PATH="coverage/Udemy$Unittests_in_test_calculadora_py.coverage" NAME="Unittests in test_calculadora.py Coverage Results" MODIFIED="1586953790440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testes" />
     <SUITE FILE_PATH="coverage/Udemy$TiposPrimitivos.coverage" NAME="TiposPrimitivos Coverage Results" MODIFIED="1582981918346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula4" />
     <SUITE FILE_PATH="coverage/Udemy$Aula3Strings.coverage" NAME="Aula3Strings Coverage Results" MODIFIED="1583007143194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula3" />
-    <SUITE FILE_PATH="coverage/Udemy$Condicoes.coverage" NAME="Condicoes Coverage Results" MODIFIED="1582995250527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula9" />
-    <SUITE FILE_PATH="coverage/Udemy$built_ins.coverage" NAME="built_ins Coverage Results" MODIFIED="1583007099150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula10" />
-    <SUITE FILE_PATH="coverage/Udemy$Desafio.coverage" NAME="Desafio Coverage Results" MODIFIED="1582985931791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula7" />
-    <SUITE FILE_PATH="coverage/Udemy$main.coverage" NAME="main Coverage Results" MODIFIED="1582827993272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula1" />
-    <SUITE FILE_PATH="coverage/Udemy$placeholders.coverage" NAME="placeholders Coverage Results" MODIFIED="1583007662586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula11" />
-    <SUITE FILE_PATH="coverage/Udemy$While.coverage" NAME="While Coverage Results" MODIFIED="1583073914735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula15" />
-    <SUITE FILE_PATH="coverage/Udemy$Exercicio__1_.coverage" NAME="Exercicio (1) Coverage Results" MODIFIED="1582982399401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula4" />
-    <SUITE FILE_PATH="coverage/Udemy$FormatandoValores.coverage" NAME="FormatandoValores Coverage Results" MODIFIED="1583014934350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula13" />
-    <SUITE FILE_PATH="coverage/Udemy$FormataçãoDeStrings.coverage" NAME="FormataçãoDeStrings Coverage Results" MODIFIED="1582985147627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula7" />
+    <SUITE FILE_PATH="coverage/Udemy$Unittests_in_Testes.coverage" NAME="Unittests in Testes Coverage Results" MODIFIED="1586908714793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testes" />
+    <SUITE FILE_PATH="coverage/Udemy$Unittests_for_teste_calculadora_TestCalculadora_test_soma_entre_5_e_5_deve_retornar_10.coverage" NAME="Unittests for teste_calculadora.TestCalculadora.test_soma_entre_5_e_5_deve_retornar_10 Coverage Results" MODIFIED="1586908603664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testes" />
+    <SUITE FILE_PATH="coverage/Udemy$Split_Join_Enumerate.coverage" NAME="Split_Join_Enumerate Coverage Results" MODIFIED="1583769664434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula20" />
+    <SUITE FILE_PATH="coverage/Udemy$Operacao_Ternario.coverage" NAME="Operacao_Ternario Coverage Results" MODIFIED="1583886085871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula23" />
     <SUITE FILE_PATH="coverage/Udemy$OperadoresArtitmeticos.coverage" NAME="OperadoresArtitmeticos Coverage Results" MODIFIED="1582983761128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula5" />
-    <SUITE FILE_PATH="coverage/Udemy$AulaComentarios__1_.coverage" NAME="AulaComentarios (1) Coverage Results" MODIFIED="1582829174356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula1" />
+    <SUITE FILE_PATH="coverage/Udemy$Variaveis.coverage" NAME="Variaveis Coverage Results" MODIFIED="1582984948521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula6" />
+    <SUITE FILE_PATH="coverage/Udemy$For_Else.coverage" NAME="For_Else Coverage Results" MODIFIED="1583768261274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula19" />
+    <SUITE FILE_PATH="coverage/Udemy$Unittests_in_teste_calculadora_py.coverage" NAME="Unittests in test_calculadora.py Coverage Results" MODIFIED="1586911560638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testes" />
+    <SUITE FILE_PATH="coverage/Udemy$Perguntas_resp_dicio.coverage" NAME="Perguntas_resp_dicio Coverage Results" MODIFIED="1585414933333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula28" />
+    <SUITE FILE_PATH="coverage/Udemy$Dicionario.coverage" NAME="Dicionario Coverage Results" MODIFIED="1585184815619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula28" />
+    <SUITE FILE_PATH="coverage/Udemy$BaseDados.coverage" NAME="BaseDados Coverage Results" MODIFIED="1586222645431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SQL" />
+    <SUITE FILE_PATH="coverage/Udemy$Exercicio__1_.coverage" NAME="Exercicio (1) Coverage Results" MODIFIED="1585503525879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula31-Exercicio" />
+    <SUITE FILE_PATH="coverage/Udemy$Def2.coverage" NAME="Def2 Coverage Results" MODIFIED="1585165017042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula25" />
+    <SUITE FILE_PATH="coverage/Udemy$OperadoresLogicos.coverage" NAME="OperadoresLogicos Coverage Results" MODIFIED="1583001254289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula9" />
+    <SUITE FILE_PATH="coverage/Udemy$FormataçãoDeStrings.coverage" NAME="FormataçãoDeStrings Coverage Results" MODIFIED="1582985147627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula7" />
+    <SUITE FILE_PATH="coverage/Udemy$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1585522513510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AulaPOO/Aula2_Metodo_classes" />
+    <SUITE FILE_PATH="coverage/Udemy$Trocando_Valores.coverage" NAME="Trocando_Valores Coverage Results" MODIFIED="1583885077930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula22" />
+    <SUITE FILE_PATH="coverage/Udemy$Def_Args_Kwargs__1_.coverage" NAME="Def_Args_Kwargs (1) Coverage Results" MODIFIED="1585165938605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula25" />
+    <SUITE FILE_PATH="coverage/Udemy$Def.coverage" NAME="Def Coverage Results" MODIFIED="1585050169489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula25" />
+    <SUITE FILE_PATH="coverage/Udemy$Exercicios.coverage" NAME="Exercicios Coverage Results" MODIFIED="1583025924592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula12" />
+    <SUITE FILE_PATH="coverage/Udemy$OperadoresRelacionais.coverage" NAME="OperadoresRelacionais Coverage Results" MODIFIED="1582997602603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula9" />
+    <SUITE FILE_PATH="coverage/Udemy$IterandoStrings.coverage" NAME="IterandoStrings Coverage Results" MODIFIED="1583355181927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula16" />
+    <SUITE FILE_PATH="coverage/Udemy$Desafio.coverage" NAME="Desafio Coverage Results" MODIFIED="1582985931791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula7" />
+    <SUITE FILE_PATH="coverage/Udemy$Desafio_Contadores.coverage" NAME="Desafio_Contadores Coverage Results" MODIFIED="1583889294980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula24" />
+    <SUITE FILE_PATH="coverage/Udemy$ListComprehension.coverage" NAME="ListComprehension Coverage Results" MODIFIED="1585494720268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula30" />
     <SUITE FILE_PATH="coverage/Udemy$Aula2_Prints.coverage" NAME="Aula2_Prints Coverage Results" MODIFIED="1582828775124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula2" />
-    <SUITE FILE_PATH="coverage/Udemy$While_Else.coverage" NAME="While_Else Coverage Results" MODIFIED="1583084566240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula15" />
+    <SUITE FILE_PATH="coverage/Udemy$built_ins.coverage" NAME="built_ins Coverage Results" MODIFIED="1583007099150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula10" />
+    <SUITE FILE_PATH="coverage/Udemy$Listas.coverage" NAME="Listas Coverage Results" MODIFIED="1583360971661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula18" />
+    <SUITE FILE_PATH="coverage/Udemy$Unittests_for_test_baconcomovos_TestBaconComOvos_test_bacon_com_ovos_deve_retornar_bacon_se_for_multiplo_de_5.coverage" NAME="Unittests for test_baconcomovos.TestBaconComOvos.test_bacon_com_ovos_deve_retornar_bacon_se_for_multiplo_de_5 Coverage Results" MODIFIED="1586915801850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testes" />
+    <SUITE FILE_PATH="coverage/Udemy$Unittests_in_test_baconcomovos_py.coverage" NAME="Unittests in test_baconcomovos.py Coverage Results" MODIFIED="1586915855576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testes" />
+    <SUITE FILE_PATH="coverage/Udemy$Tuplas.coverage" NAME="Tuplas Coverage Results" MODIFIED="1585182195676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula27" />
+    <SUITE FILE_PATH="coverage/Udemy$Lambda.coverage" NAME="Lambda Coverage Results" MODIFIED="1585181156115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula26" />
+    <SUITE FILE_PATH="coverage/Udemy$Dict_Comprehension.coverage" NAME="Dict_Comprehension Coverage Results" MODIFIED="1585503589477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula32" />
+    <SUITE FILE_PATH="coverage/Udemy$main__2_.coverage" NAME="main (2) Coverage Results" MODIFIED="1585525053028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AulaPOO/Aula4_Getters_Setters" />
+    <SUITE FILE_PATH="coverage/Udemy$While_Else.coverage" NAME="While_Else Coverage Results" MODIFIED="1583353077353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula15" />
+    <SUITE FILE_PATH="coverage/Udemy$AulaComentarios__1_.coverage" NAME="AulaComentarios (1) Coverage Results" MODIFIED="1582829174356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula1" />
+    <SUITE FILE_PATH="coverage/Udemy$Indices_Fatiamentos.coverage" NAME="Indices_Fatiamentos Coverage Results" MODIFIED="1583072317159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula14" />
+    <SUITE FILE_PATH="coverage/Udemy$Metodos_estaticos.coverage" NAME="Metodos_estaticos Coverage Results" MODIFIED="1585523320456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AulaPOO/Aula3_Metodo_estatico" />
+    <SUITE FILE_PATH="coverage/Udemy$Exercicio.coverage" NAME="Exercicio Coverage Results" MODIFIED="1586971828174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula31-Exercicio" />
+    <SUITE FILE_PATH="coverage/Udemy$Testes.coverage" NAME="Testes Coverage Results" MODIFIED="1583116156179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula16" />
+    <SUITE FILE_PATH="coverage/Udemy$Funcoes.coverage" NAME="Funcoes Coverage Results" MODIFIED="1585021721374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula25" />
+    <SUITE FILE_PATH="coverage/Udemy$Aula2_DocTest.coverage" NAME="Aula2_DocTest Coverage Results" MODIFIED="1586887578081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testes" />
+    <SUITE FILE_PATH="coverage/Udemy$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1585525328144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AulaPOO/Aula5_Atributos" />
+    <SUITE FILE_PATH="coverage/Udemy$Sets.coverage" NAME="Sets Coverage Results" MODIFIED="1585416915979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula29" />
+    <SUITE FILE_PATH="coverage/Udemy$While.coverage" NAME="While Coverage Results" MODIFIED="1583073914735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula15" />
+    <SUITE FILE_PATH="coverage/Udemy$Desempacotamento.coverage" NAME="Desempacotamento Coverage Results" MODIFIED="1583884653929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula21" />
+    <SUITE FILE_PATH="coverage/Udemy$main.coverage" NAME="main Coverage Results" MODIFIED="1585521127981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AulaPOO/Aula1_Classes" />
+    <SUITE FILE_PATH="coverage/Udemy$Unittests_for_test_baconcomovos_TestBaconComOvos_test_bacon_com_ovos_deve_retornar_bacon_se_for_multiplo_de_3.coverage" NAME="Unittests for test_baconcomovos.TestBaconComOvos.test_bacon_com_ovos_deve_retornar_bacon_se_for_multiplo_de_3 Coverage Results" MODIFIED="1586915851377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Testes" />
+    <SUITE FILE_PATH="coverage/Udemy$Len.coverage" NAME="Len Coverage Results" MODIFIED="1583006371272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula10" />
+    <SUITE FILE_PATH="coverage/Udemy$placeholders.coverage" NAME="placeholders Coverage Results" MODIFIED="1583007662586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula11" />
+    <SUITE FILE_PATH="coverage/Udemy$CPF.coverage" NAME="CPF Coverage Results" MODIFIED="1584977462682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula24" />
+    <SUITE FILE_PATH="coverage/Udemy$Geradores_Iteradores.coverage" NAME="Geradores_Iteradores Coverage Results" MODIFIED="1585504757463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula33" />
   </component>
 </project>
